@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://github.com/hoangggduonggg/",
+      "domain": ""
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "",
+        "clientID": "952574313125543996",
+        "secret": "JQhUSqwpIb8QAIELx8-lAIoKipxN7P0M"
+    }
+  }
